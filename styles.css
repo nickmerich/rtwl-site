@@ -476,3 +476,22 @@ figcaption{
   .footer{justify-content:center;text-align:center}
   .faq summary{font-size:17px}
 }
+
+/* ---- permit-accurate map extras ---- */
+.cmap__road{fill:none;stroke:var(--muted);stroke-width:2;opacity:.45}
+.cmap__pkwy{stroke-width:2.5;opacity:.6}
+.cmap__cross line{stroke:var(--ink);stroke-width:3;stroke-linecap:round}
+.cmap__marshal{fill:var(--rust);stroke:var(--paper);stroke-width:1.5}
+.cmap__wpend{fill:none;stroke:var(--water);stroke-width:2;stroke-dasharray:3 3}
+.cmap__hand--road{fill:var(--muted);font-size:19px}
+.lg--marshal{width:11px;height:11px;border:0;border-radius:50%;background:var(--rust)}
+.lg--cross{width:11px;height:11px;border:0;background:
+  linear-gradient(45deg,transparent 42%,var(--ink) 42%,var(--ink) 58%,transparent 58%),
+  linear-gradient(-45deg,transparent 42%,var(--ink) 42%,var(--ink) 58%,transparent 58%)}
+
+/* ---- neighborhood promise ---- */
+.promise{margin-top:30px;background:var(--green);color:var(--paper);padding:26px 28px 30px;clip-path:var(--torn)}
+.promise__title{font-family:var(--script);font-size:1.5rem;margin:0 0 12px;color:var(--paper)}
+.promise__list{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.promise__list li{font-size:.93rem;line-height:1.5;padding-left:20px;position:relative;opacity:.94}
+.promise__list li::before{content:"♡";position:absolute;left:0;top:0;font-size:.85rem;opacity:.75}

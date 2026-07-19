@@ -34,7 +34,11 @@ Note: if you later use `vite build`, move `rtwl.ics` into a `public/` folder so 
 
 - Event name is **Run Takoma With Love**; *From Takoma With Love* is the album (Oddisee and Heno., Outer Note). They are not a duo — never describe them as one.
 - No artist performance/appearance promises.
-- Permit-facing scope: free RSVP, capped at 100, no vendors, no admission fees, no amplified sound, water in-kind at two course stops.
+- Permit-facing scope (per permit packet): free RSVP, capped at 100, no vendors, no admission fees, no merchandise sales, no amplified sound, on foot only, no road closures or shuttles, nothing staged in residential areas.
+- Official public timeline: check-in 8:30, welcome + safety 9:00, walk/run begins **9:15**, return + hydration 10:30, community connection 10:50, park gathering 11:30, light refreshments (pre-packaged, if permitted) 12:15, closing 12:45, site cleared by 2:00.
+- Water: primary station at the shelter (smartwater in-kind). A second route stop exists ONLY if approved — keep "if approved" language until confirmed. No residential placement.
+- No grill/cookout, no field-day games, no Ed Wilhelm Field use — do not reintroduce this language.
+- Route: from the park out to the open (car-free) parkway and back; volunteer marshals along the route with two marshaled road crossings; ADA parking/routes stay clear.
 - Permit is under M-NCPPC review — do not launch publicly until written approval.
 - Course map is a sketch, not to scale; official map goes out in the runner email.
 
