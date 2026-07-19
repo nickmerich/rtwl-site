@@ -1,0 +1,15 @@
+{
+  "name": "run-takoma-with-love",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Run Takoma With Love 5K — event story site. Static HTML/CSS/JS, GRYT Club design language.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
